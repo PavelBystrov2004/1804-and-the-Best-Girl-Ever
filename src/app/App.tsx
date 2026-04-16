@@ -3,7 +3,7 @@ import { Play, Pause, SkipBack, SkipForward, Shuffle, Repeat, ChevronDown } from
 import { ImageWithFallback } from './components/figma/ImageWithFallback';
 import coverImage from "../imports/IMG_8908-1.JPG";
 import bunnyImage from "../imports/607264C9-FB5F-4FB3-8E45-6D8D227E3C8A-1.PNG";
-import audioFile from "../imports/паша_song_mix_2.mp3";
+import audioFile from "../imports/Caera et Óengus Óg.wav";
 
 interface LyricLine {
   start: number;
